@@ -1,13 +1,13 @@
 github_users:
   - torvalds
-  - grafaelw
+  - alshedivat
 
 github_repos:
   - alshedivat/al-folio
-  - grafaelw/5SMB0_SysId
-  - grafaelw/5LMB0_inverted-pendulum
+  - twbs/bootstrap
+  - jekyll/jekyll
   - grafaelw/5SC28_ML4SC
-  - grafaelw/5LSL0_ML4SPS-assignments
+  - grafaelw/5LSL0_ML4SPS-Assignments
   - FortAwesome/Font-Awesome
   - jpswalsh/academicons
   - mathjax/MathJax
