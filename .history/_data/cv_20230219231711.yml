@@ -23,9 +23,9 @@
       institution: Institut Teknologi Sepuluh Nopember, Surabaya, Indonesia
       year: 2016-2020
       description:
-        - <b>GPA:</b> 3.44/4.00
-        - <b>Thesis:</b> "The Utilization of Cloud Computing for Facial Expression Recognition using Amazon Web Services"
-        - <b>Specialisation:</b> Embedded Electronics Engineering, Signal Processing, and Artificial Intelligence
+        - <b>GPA:<b> 3.44/4.00
+        - <b>Thesis":<b> "The Utilization of Cloud Computing for Facial Expression Recognition using Amazon Web Services"
+        - "Specialisation": Embedded Electronics Engineering, Signal Processing, and Artificial Intelligence
 
 - title: Experience
   type: time_table
