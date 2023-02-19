@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Gregorius Rafael Widojoko
+      value: Albert Einstein
     - name: Date of Birth
-      value: 18th January 1999
+      value: 18th March 1879
     - name: Languages
-      value: English, Dutch, German, Indonesian, Mandarin, Cantonese
+      value: English, German
 
 - title: Education
   type: time_table
