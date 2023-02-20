@@ -106,7 +106,7 @@
   contents:
     - title: System Identification
       items:
-        - Interconnected dynamical Systems' Identification
+        - Inter-connected dynamical Systems' Identification
         - Gaussian Process, Machine Learning, and Deep-Learning for System Identification
     - title: Reduced-Order Modelling
       items:

@@ -106,7 +106,7 @@
   contents:
     - title: System Identification
       items:
-        - Interconnected dynamical Systems' Identification
+        - Inter-connected dynamical Systems' Identification
         - Gaussian Process, Machine Learning, and Deep-Learning for System Identification
     - title: Reduced-Order Modelling
       items:
@@ -119,9 +119,10 @@
         - Model Predictive Control (MPC)
     - title: Bayesian Machine Learning and Information Processing
       items:
-        - Bayesian reasoning
-        - Information Processing
+        - Bayesian Machine Learning-style reasoning
+        - Information Processing with Uncertainty
         - Probabilistic Programming
+        - Stochastic Differential Equations (SDEs)
     - title: Machine Learning and Signal Processing
       items:
         - Deep-Learning Signal Processing for Visual and Audio Signals
