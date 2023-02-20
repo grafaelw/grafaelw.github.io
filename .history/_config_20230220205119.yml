@@ -285,7 +285,6 @@ filtered_bibtex_keywords:
     bibtex_show,
     html,
     pdf,
-    doi,
     selected,
     supp,
     blog,

@@ -249,10 +249,10 @@ display_tags: ["formatting", "images", "links", "math", "code"] # this tags will
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Widojoko]
-  first_name: [Gregorius Rafael, G.R.]
+  last_name: [Einstein]
+  first_name: [Albert, A.]
 
-  style: ieee
+  style: apa
   locale: en
 
   source: /_bibliography/
@@ -285,7 +285,6 @@ filtered_bibtex_keywords:
     bibtex_show,
     html,
     pdf,
-    doi,
     selected,
     supp,
     blog,
