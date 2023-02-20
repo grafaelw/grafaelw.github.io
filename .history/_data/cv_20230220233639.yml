@@ -1,0 +1,153 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Gregorius Rafael Widojoko
+    - name: Place, date of Birth
+      value: Surabaya, 18<sup>th</sup> January 1999
+    - name: Languages
+      value: English, Dutch, German, Indonesian, Mandarin, Cantonese
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Master of Science in Electrical Engineering
+      institution: Eindhoven University of Technology, Eindhoven, The Netherlands
+      year: 2022 - present
+      description:
+        - Thesis: "The Utilization of Cloud Computing for Facial Expression Recognition using Amazon Web Services"
+        - Specialisation: Artificial Intelligence, System and Control theories, and Signal Processing
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Bachelor of Engineering in Electrical Engineering
+      institution: Institut Teknologi Sepuluh Nopember, Surabaya, Indonesia
+      year: 2016 - 2020
+      description:
+        - <b>GPA:</b> 3.44/4.00
+        - <b>Thesis:</b> "The Utilization of Cloud Computing for Facial Expression Recognition using Amazon Web Services"
+        - <b>Specialisation:</b> Embedded Electronics Engineering, Signal Processing, and Artificial Intelligence
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Artificial Intelligence Engineer
+      institution: Institute for Advanced Study, Princeton University
+      year: 1933 - 1955
+      description:
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Visiting Professor
+      institution: California Institute of Technology, Pasadena, California, US
+      year: 1933
+      description:
+        - Description 1.
+        - Description 2.
+
+    - title: Artificial Intelligence Engineer
+      institution: Institute for Advanced Study, Princeton University
+      year: 1933 - 1955
+      description:
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Visiting Professor
+      institution: California Institute of Technology, Pasadena, California, US
+      year: 1933
+      description:
+        - Description 1.
+        - Description 2.
+
+    - title: Artificial Intelligence Engineer
+      institution: Institute for Advanced Study, Princeton University
+      year: 1933 - 1955
+      description:
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Visiting Professor
+      institution: California Institute of Technology, Pasadena, California, US
+      year: 1933
+      description:
+        - Description 1.
+        - Description 2.
+
+    - title: Director
+      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
+      year: 1917-1933
+
+    - title: Professor of Theoretical Physics
+      institution: Karl-Ferdinand University, Prague, Czechoslovakia
+      year: 1911 - 1917
+      description:
+        - Designing and implementing the embedded electronics and computerised system of <em>Jalapatih 4 Solar Boat<\em>
+        - Programmed the whole systems' high-level architecture of <em>Jalapatih 4 Solar Boat<\em>
+        - Co-engineering the mechanical and electrical parts of <em>Jalapatih 4 Solar Boat<\em> with the ME (Mechanical-Electrical) engineering team
+    - title: Laboratory Assistant
+    institution: Department of Electrical Engineering, Institut Teknologi Sepuluh Nopember (ITS), Surabaya, Indonesia
+    year: 2017 - 2020
+    description:
+      - Assisting in Electronics, Electrical, and Digital Circuit Laboratory courses
+      - Co-assisting in Digital Signal Processing Laboratory course
+      - Co-assisting in Linear Systems Laboratory course
+      - Tutoring students to understand better in those subjects on application basis
+    - title: Student Research Assistant
+    institution: Department of Electrical Engineering, Institut Teknologi Sepuluh Nopember (ITS), Surabaya, Indonesia
+    year: 2017 - 2020
+    description:
+      - Assisting my lecturers researching in Image Processing, AI, Embedded Electronics, IoT, and Signal Processing topics
+      - Helping on ITS Braille Embossers Machine implementations and repairs at Microelectronics and Embedded System Laboratory
+    - title: Teaching Assistant
+    institution: Institut Teknologi Sepuluh Nopember (ITS), Surabaya, Indonesia
+    year: 2017 - 2020
+    description:
+        - <b>Subjects:</b> Calculus I-II, Physics I-II, Electrical, Electronics and Digital Circuits, Engineering Mathematics I-II, Probability, Statistics, and Stochastic Processes, Linear Systems and Numerical Analysis courses
+        - Preparing instructions' exercise questions and answers on those subjects
+        - Tutoring students for their final exams on those subjects
+
+- title: Open Source Projects
+  type: time_table
+  contents:
+    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+      year: 2015-now
+      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 1921
+      items:
+        - Nobel Prize in Physics
+        - Matteucci Medal
+    - year: 2029
+      items:
+        - Max Planck Medal
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Topic 1.
+      items:
+        - Description 1.
+        - Description 2.
+    - title: Topic 2.
+      items:
+        - Deep-Learning Signal Processing for Visual and Audio Signals
+        - Adaptive Array Signal Processing
+        - Machine Learning for Signal Processing
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Reading, photography, playing musical instruments (guitar, piano, and violin), hiking, camping, and travelling
