@@ -252,7 +252,7 @@ scholar:
   last_name: [Widojoko]
   first_name: [Gregorius Rafael, G.R.]
 
-  style: ieee
+  style: apa
   locale: en
 
   source: /_bibliography/
@@ -282,7 +282,6 @@ filtered_bibtex_keywords:
     abbr,
     abstract,
     arxiv,
-    doi,
     bibtex_show,
     html,
     pdf,

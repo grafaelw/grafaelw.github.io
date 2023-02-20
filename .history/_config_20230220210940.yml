@@ -282,7 +282,6 @@ filtered_bibtex_keywords:
     abbr,
     abstract,
     arxiv,
-    doi,
     bibtex_show,
     html,
     pdf,

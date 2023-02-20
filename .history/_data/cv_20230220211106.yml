@@ -56,6 +56,7 @@
       description:
         - Editing articles from Electrical, Biomedical and Computer Engineering departments
         - Reviewing articles for presentability on IEEE proceedings
+
     - title: Electronics and Computer Engineer
       institution: ITS Marine Solar Boat Team, Institut Teknologi Sepuluh Nopember (ITS), Surabaya, Indonesia
       year: 2018 - 2019
@@ -63,6 +64,7 @@
         - Designing and implementing the embedded electronics and computerised system of <em>Jalapatih 4 Solar Boat<\em>
         - Programmed the whole systems' high-level architecture of <em>Jalapatih 4 Solar Boat<\em>
         - Co-engineering the mechanical and electrical parts of <em>Jalapatih 4 Solar Boat<\em> with the ME (Mechanical-Electrical) engineering team
+
     - title: Laboratory Assistant
     institution: Department of Electrical Engineering, Institut Teknologi Sepuluh Nopember (ITS), Surabaya, Indonesia
     year: 2017 - 2020
@@ -71,17 +73,19 @@
       - Co-assisting in Digital Signal Processing Laboratory course
       - Co-assisting in Linear Systems Laboratory course
       - Tutoring students to understand better in those subjects on application basis
+
     - title: Student Research Assistant
     institution: Department of Electrical Engineering, Institut Teknologi Sepuluh Nopember (ITS), Surabaya, Indonesia
     year: 2017 - 2020
     description:
       - Assisting my lecturers researching in Image Processing, AI, Embedded Electronics, IoT, and Signal Processing topics
       - Helping on ITS Braille Embossers Machine implementations and repairs at Microelectronics and Embedded System Laboratory
+
     - title: Teaching Assistant
     institution: Institut Teknologi Sepuluh Nopember (ITS), Surabaya, Indonesia
     year: 2017 - 2020
     description:
-        - <b>Subjects:</b> Calculus I-II, Physics I-II, Electrical, Electronics and Digital Circuits, Engineering Mathematics I-II, Probability, Statistics, and Stochastic Processes, Linear Systems and Numerical Analysis courses
+        - <b>Subjects:</b> Calculus I-II, Physics I-II, Electrical Circuits, Electronics Circuits, Discrete Mathematics, Engineering Mathematics I-II, Probability, Statistics, and Stochastic Processes, Microprocessor and Digital Circuits, Linear Systems and Numerical Analysis courses
         - Preparing instructions' exercise questions and answers on those subjects
         - Tutoring students for their final exams on those subjects
 

@@ -250,9 +250,9 @@ display_tags: ["formatting", "images", "links", "math", "code"] # this tags will
 
 scholar:
   last_name: [Widojoko]
-  first_name: [Gregorius Rafael, G.R.]
+  first_name: [Gregorius, A.]
 
-  style: ieee
+  style: apa
   locale: en
 
   source: /_bibliography/
@@ -282,7 +282,6 @@ filtered_bibtex_keywords:
     abbr,
     abstract,
     arxiv,
-    doi,
     bibtex_show,
     html,
     pdf,
