@@ -16,7 +16,7 @@
       year: 2022-present
       description:
         - Following the Master-track of Artificial Intelligence for Engineering Systems (AIES) programme, that now is a new Master programme.
-        - <b>Thesis:</b> <em>The Utilization of Cloud Computing for Facial Expression Recognition using Amazon Web Services</em>
+        - <b>Thesis:</b> "The Utilization of Cloud Computing for Facial Expression Recognition using Amazon Web Services"
         - <b>Specialisation:</b> Artificial Intelligence, System and Control theories, and Signal Processing
 
     - title: Bachelor of Engineering in Electrical Engineering
@@ -30,22 +30,24 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Artificial Intelligence Engineer
-      institution: Sycomora Indonesia
-      url: https://www.sycomora.id/
-      year: 2021-present
-      description:
-        - Start-up company in healthcare industry in Indonesia
-        - Developing AI-based system for healthcare automations
-        - (Partially) developing AI-based anaylsis for Medical Imaging
+    -
+    # - title: Artificial Intelligence Engineer
+    #   institution: Sycomora Indonesia
+    #   url: https://www.sycomora.id/
+    #   year: 2021-present
+    #   description:
+    #     - Start-up company in healthcare industry in Indonesia
+    #     - Developing AI-based system for healthcare automations
+    #     - (Partially) developing AI-based anaylsis for Medical Imaging
 
     - title: Head of Cyber-Security
       institution: Persatuan Pelajar Indonesia (PPI)/Indoesian Student Association
       url: https://ppi.id/
       year: 2021-2022
       description:
-        - Maintaining PPI countries' area websites, including the HQ's main website
+        - Track-and-trace PPI countries' area websites, including the HQ's main website
         - Improving the security of PPI's main website
+        - Maintaining the main servers of PPI or its countries' area's
         - Promoting secure web developing and deploying practices among PPI's members
 
     - title: IoT Engineer (Internship)
