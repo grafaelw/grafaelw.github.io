@@ -60,14 +60,14 @@
     - title: Editor in Chief and Student Member
       institution: IEEE ITS-SB, Surabaya, Indonesia
       url: https://edu.ieee.org/id-itsn/
-      year: 2019 - 2020
+      year: 2019-2020
       description:
         - Editing articles from Electrical, Biomedical and Computer Engineering departments
         - Reviewing articles for presentability on IEEE proceedings
 
     - title: Electronics and Computer Engineer
       institution: ITS Marine Solar Boat Team, Institut Teknologi Sepuluh Nopember (ITS), Surabaya, Indonesia
-      year: 2018 - 2019
+      year: 2018-2019
       description:
         - Designing and implementing the embedded electronics and computerised system of <em>Jalapatih 4 Solar Boat<\em>
         - Programmed the whole systems' high-level architecture of <em>Jalapatih 4 Solar Boat<\em>
@@ -96,24 +96,6 @@
         - <b>Subjects:</b> Calculus I-II, Physics I-II, Electrical Circuits, Electronics Circuits, Discrete Mathematics, Engineering Mathematics I-II, Probability, Statistics, and Stochastic Processes, Microprocessor and Digital Circuits, Linear Systems and Numerical Analysis courses
         - Preparing instructions' exercise questions and answers on those subjects
         - Tutoring students for their final exams on those subjects
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list

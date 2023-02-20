@@ -97,7 +97,7 @@
         - Preparing instructions' exercise questions and answers on those subjects
         - Tutoring students for their final exams on those subjects
 
-- title: Open Source Projects
+    - title: Open Source Projects
   type: time_table
   contents:
     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>

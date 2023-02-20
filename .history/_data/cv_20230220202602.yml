@@ -30,6 +30,7 @@
 - title: Experience
   type: time_table
   contents:
+  
     - title: Artificial Intelligence Engineer
       institution: Sycomora Indonesia
       url: https://www.sycomora.id/
@@ -96,24 +97,6 @@
         - <b>Subjects:</b> Calculus I-II, Physics I-II, Electrical Circuits, Electronics Circuits, Discrete Mathematics, Engineering Mathematics I-II, Probability, Statistics, and Stochastic Processes, Microprocessor and Digital Circuits, Linear Systems and Numerical Analysis courses
         - Preparing instructions' exercise questions and answers on those subjects
         - Tutoring students for their final exams on those subjects
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
