@@ -1,14 +1,14 @@
 github_users:
-  - torvalds
-  - alshedivat
-
-repo_description_lines_max: 2
+  - grafaelw
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
+  - grafaelw/grafaelw_MSc-Thesis_BayesianSysID
+  - grafaelw/5I015_Internship
+  - grafaelw/5SMB0_SysId
+  - grafaelw/5LMB0_inverted-pendulum
+  - grafaelw/5SC28-ML4SC
+  - grafaelw/5LSL0_ML4SPS-assignments
+  - grafaelw/Gauss-Elimination
   - FortAwesome/Font-Awesome
-  - mathjax/MathJax
   - jpswalsh/academicons
+  - mathjax/MathJax
