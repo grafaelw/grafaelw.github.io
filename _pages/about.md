@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <em> Duc in altum </em> 
+subtitle: <em> Duc in altum </em>
 
 profile:
   align: right
@@ -30,4 +30,4 @@ latest_posts:
 
 Gregorius Rafael Widojoko was born in 1999, in Surabaya, Indonesia. He received the B.Eng. degree from Department of Electrical Engineering, Institut Teknologi Sepuluh Nopember, Surabaya, Indonesia. Pursuiting his eagerness to learn Artificial Intelligence, he pursuited and received M.Sc. degree from Department of Electrical Engineering, Eindhoven University of Technology, Eindhoven, The Netherlands. In his academic journey, he has obtained various skills, i.e. software engineering, scientific and probabilistic programming, designing (AI) algorithms, designing controllers, and also modelling dynamics. With his prowess in mathematics, he is set to do a Ph.D. program someday.
 
-Outside of his academic life, he is also known as a prolific musician, playing piano and guitar and composing instrumental songs, chess player, bridge player, and photographer. 
+Outside of his academic life, he is also known as a prolific musician, playing piano and guitar and composing instrumental songs, chess player, bridge player, and photographer.

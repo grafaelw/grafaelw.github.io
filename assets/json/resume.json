@@ -75,7 +75,15 @@
       "startDate": "2017-08-01",
       "endDate": "2020-03-31",
       "summary": "As Student and Laboratory Assistant, I assisted students in Electronics, Electrical and Digital Circuit, Digital Signal Processing and Linear Systems Laboratory courses and tutored them to understand better on those subjects. As Student Research Assistant, I helped my lecturers researching in Image Processing, Artificial Intelligence, Embedded Electronics, Internet of Things, and Signal Processing topics for practical implementation and helped on ITS Braille Embossers Machine implementations and repairs",
-      "highlights": ["Internet of Things (IoT)", "Embedded Systems", "Control Systems", "Digital Signal Processing", "Image Processing", "Artificial Intelligence", "Computer Vision"]
+      "highlights": [
+        "Internet of Things (IoT)",
+        "Embedded Systems",
+        "Control Systems",
+        "Digital Signal Processing",
+        "Image Processing",
+        "Artificial Intelligence",
+        "Computer Vision"
+      ]
     },
     {
       "name": "Institut Teknologi Sepuluh Nopember, Surabaya, Indonesia",
@@ -84,7 +92,16 @@
       "startDate": "2018-01-01",
       "endDate": "2019-05-31",
       "summary": "I helped teaching students on Calculus I-II, Physics I-II, Electrical Circuits, Electronics Circuits, Discrete Mathematics, Engineering Mathematics I-II, Probability, Statistics, and Stochastic Processes, Microprocessor and Digital Circuits, Linear System, and Numerical Analysis courses and prepared several exercise questions for subject exams",
-      "highlights": ["Calculus", "Linear Algebra", "Probability", "Statistics", "Control Systems", "Electronics", "Discrete Mathematics", "Numerical Analysis"]
+      "highlights": [
+        "Calculus",
+        "Linear Algebra",
+        "Probability",
+        "Statistics",
+        "Control Systems",
+        "Electronics",
+        "Discrete Mathematics",
+        "Numerical Analysis"
+      ]
     }
   ],
   "volunteer": [
@@ -109,7 +126,20 @@
       "startDate": "2022-02-01",
       "endDate": "2024-06-20",
       "score": "7 out of 10",
-      "courses": ["System Identification", "Model Reduction", "Modelling Dynamics", "Model Predictive Control", "Robust Control", "Machine Learning and Signal Processing", "Machine Learning and Control", "Optimal Control and Reinforcement Learning", "Bayesian Machine Learning and Information Processing", "Complex Analysis", "Non-linear Optimisation", "Adaptive Array Signal Processing"]
+      "courses": [
+        "System Identification",
+        "Model Reduction",
+        "Modelling Dynamics",
+        "Model Predictive Control",
+        "Robust Control",
+        "Machine Learning and Signal Processing",
+        "Machine Learning and Control",
+        "Optimal Control and Reinforcement Learning",
+        "Bayesian Machine Learning and Information Processing",
+        "Complex Analysis",
+        "Non-linear Optimisation",
+        "Adaptive Array Signal Processing"
+      ]
     },
     {
       "institution": "University of Twente",
@@ -119,7 +149,14 @@
       "studyType": "Premaster in Applied Mathematics",
       "startDate": "2021-02-01",
       "endDate": "2021-06-30",
-      "courses": ["Discrete Mathematics", "Abstract Algebra", "Language of Machine",  "Introduction to PDE", "Probability Theory", "Applied Statistics"]
+      "courses": [
+        "Discrete Mathematics",
+        "Abstract Algebra",
+        "Language of Machine",
+        "Introduction to PDE",
+        "Probability Theory",
+        "Applied Statistics"
+      ]
     },
     {
       "institution": "Institut Teknologi Sepuluh Nopember (ITS)",
@@ -130,7 +167,16 @@
       "startDate": "2016-09-01",
       "endDate": "2020-06-24",
       "score": "8.51",
-      "courses": ["Internet of Things", "Artificial Intelligence", "Robotics", "Embedded Electronics", "Digital Signal Processing", "Control Systems", "Device Networking",  "Computer Vision"]
+      "courses": [
+        "Internet of Things",
+        "Artificial Intelligence",
+        "Robotics",
+        "Embedded Electronics",
+        "Digital Signal Processing",
+        "Control Systems",
+        "Device Networking",
+        "Computer Vision"
+      ]
     }
   ],
   "awards": [
@@ -214,18 +260,7 @@
       "name": "(Scientific and Probabilistic) Programming",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Python",
-        "Julia",
-        "MATLAB",
-        "R",
-        "C/C++/C#",
-        "Java",
-        "JavaScript",
-        "Bash",
-        "SQL",
-        "LaTeX"
-      ]
+      "keywords": ["Python", "Julia", "MATLAB", "R", "C/C++/C#", "Java", "JavaScript", "Bash", "SQL", "LaTeX"]
     },
     {
       "name": "Artificial Intelligence",
@@ -280,20 +315,12 @@
     {
       "name": "Modelling Dynamics",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Port-Hamiltonian Systems",
-        "Hybrid Systems",
-        "Stochastic Differential Equations (SDEs)",
-        "Partial Differential Equations (PDEs)"
-      ]
+      "keywords": ["Port-Hamiltonian Systems", "Hybrid Systems", "Stochastic Differential Equations (SDEs)", "Partial Differential Equations (PDEs)"]
     },
     {
       "name": "Model Order Reduction",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Proper Orthogonal Decomposition (POD)",
-        "Dynamic Mode Decomposition (DMD)"
-      ]
+      "keywords": ["Proper Orthogonal Decomposition (POD)", "Dynamic Mode Decomposition (DMD)"]
     },
     {
       "name": "Controller Design",
