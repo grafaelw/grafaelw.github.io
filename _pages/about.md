@@ -6,7 +6,7 @@ subtitle: <em> Duc in altum </em>
 
 profile:
   align: right
-  image: pasfoto-zonder-achtergrond.png
+  image: pasfoto_zonder-achtergrond.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Flux 5</p>
